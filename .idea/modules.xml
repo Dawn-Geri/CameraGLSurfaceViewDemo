@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CameraGLSurfaceViewDemo.iml" filepath="$PROJECT_DIR$/CameraGLSurfaceViewDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CameraGLSurfaceViewDemo-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CameraGLSurfaceViewDemo-app.iml" group="CameraGLSurfaceViewDemo/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/src-CameraGLSurfaceViewDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/src-CameraGLSurfaceViewDemo.iml" group="CameraGLSurfaceViewDemo" />
     </modules>
   </component>
 </project>
